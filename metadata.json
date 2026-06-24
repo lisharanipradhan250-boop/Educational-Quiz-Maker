@@ -1,0 +1,6 @@
+{
+  "name": "Educational Quiz Maker",
+  "description": "Generate and take exactly 10-question educational multiple-choice quizzes with clear options and final answer keys on any topic or difficulty level.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
